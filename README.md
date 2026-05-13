@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Run the Project
 
 ```bash
-python main.py
+python smart_text_input_engine.py
 ```
 
 ---
